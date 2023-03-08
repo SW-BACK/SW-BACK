@@ -5,5 +5,5 @@
 ![](https://activity-graph.herokuapp.com/graph?username=SW-BACK&theme=github)
 
 
-![](https://stats.justsong.cn/api/csdn?id=SwBack&theme=dark)
+[![](https://stats.justsong.cn/api/csdn?id=SwBack&theme=dark)](https://stats.justsong.cn/api/csdn?id=qq_30817059&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=387697137&theme=dark)
